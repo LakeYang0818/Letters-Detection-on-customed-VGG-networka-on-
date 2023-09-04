@@ -22,13 +22,11 @@ The project does not delve into multiple-letter detection, and the letters are s
 | **Total Loss, Loss for class label loss, Loss for bounding box loss** | ![Total Loss of Solid Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Solid%20Letters%20Model/Evaluation%20Metrics%20for%20solid%20letters%20model.png) | ![Total Loss of Hollow Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Hollow%20Letters%20Model/Evaluation%20Metrics%20for%20hollow%20letters%20model.png)  |
 | **Accuracy**  | ![Total Loss of Solid Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Solid%20Letters%20Model/accuracy%20solid.png)  | ![Total Loss of Solid Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Hollow%20Letters%20Model/accuracy%20hollow.png)  |
 
-
-
-
-
+### 4. Sample Output
+- [Solid Letters Sample](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Solid%20Letters%20Model/Object%20Classification%20and%20Localization%20Inference.ipynb)
+- [Hollow Letters Sample](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Hollow%20Letters%20Model/Object%20Classification%20and%20Localization%20Inference.ipynb)
+![image](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/assets/91699109/a4a6a236-2616-4d22-b580-da762d08e8d2)
 
 
 ## Findings and Conclusion
-- Summary of key findings and their significance.
-- Conclusions regarding the effectiveness of detecting solid and hollow letters.
-- Recommendations for future research or applications.
+- 
