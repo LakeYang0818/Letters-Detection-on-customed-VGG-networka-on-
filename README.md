@@ -14,11 +14,20 @@ The project does not delve into multiple-letter detection, and the letters are s
 
 ### 2. Customized VGG Models
 
-### 3. Model Training and Evaluation
-- Training details for both solid and hollow letter detection models.
-- Performance metrics used (accuracy, precision, recall, F1-score, etc.).
-- Evaluation results, including quantitative performance comparisons.
-- Visualizations of performance (confusion matrices, ROC curves, etc.).
+### 3. Comparisons of performances of solid and hollow models
+|    | Solid Letters Model | Hollow Letters Model  |
+|-----------|-----------|-----------|
+| ![Image 1](image1.jpg)  | ![Image 2](image2.jpg)  | ![Image 3](image3.jpg)  |
+| **Total Loss**  | ![Total Loss of Solid Letters Dataset](image1.jpg)   | ![Total Loss of Hollow Letters Dataset](image1.jpg)  |
+| **Loss for class label loss** | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
+| **Loss forr bounding box loss**  | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
+| **Accuracy**  | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
+
+
+
+
+
+
 
 ## Findings and Conclusion
 - Summary of key findings and their significance.
