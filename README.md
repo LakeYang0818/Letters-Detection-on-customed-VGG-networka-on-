@@ -17,11 +17,8 @@ The project does not delve into multiple-letter detection, and the letters are s
 ### 3. Comparisons of performances of solid and hollow models
 |    | Solid Letters Model | Hollow Letters Model  |
 |-----------|-----------|-----------|
-| ![Image 1](image1.jpg)  | ![Image 2](image2.jpg)  | ![Image 3](image3.jpg)  |
-| **Total Loss**  | ![Total Loss of Solid Letters Dataset](image1.jpg)   | ![Total Loss of Hollow Letters Dataset](image1.jpg)  |
-| **Loss for class label loss** | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
-| **Loss forr bounding box loss**  | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
-| **Accuracy**  | ![Total Loss of Solid Letters Dataset](image1.jpg)  | ![Total Loss of Solid Letters Dataset](image1.jpg)  |
+| **Total Loss**<br>**Loss for class label loss**<br>**Loss forr bounding box loss** | ![Total Loss of Solid Letters Dataset]([image1.jpg](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Solid%20Letters%20Model/Evaluation%20Metrics%20for%20solid%20letters%20model.png))   | ![Total Loss of Hollow Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Hollow%20Letters%20Model/Evaluation%20Metrics%20for%20hollow%20letters%20model.png)  |
+| **Accuracy**  | ![Total Loss of Solid Letters Dataset]([image1.jpg](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Solid%20Letters%20Model/accuracy%20solid.png))  | ![Total Loss of Solid Letters Dataset](https://github.com/LakeYang0818/Letters-Detection-on-customed-VGG-networks/blob/main/Hollow%20Letters%20Model/accuracy%20hollow.png)  |
 
 
 
