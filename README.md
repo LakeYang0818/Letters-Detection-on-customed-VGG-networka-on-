@@ -4,8 +4,7 @@
 This project focuses on building letter detection models and comparing the performance of detecting solid and hollow letters using a VGG (Visual Geometry Group) model. Our findings indicate that hollow letters outperform solid letters in detection tasks, emphasizing the effectiveness of neural networks, particularly for edge detection. This superiority stems from the distinctive features, reduced background noise, simplicity, and robustness inherent in hollow letters. In conclusion, this study reaffirms the suitability of neural networks for letter detection, leveraging the advantages of hollow letters
 
 ### Scope and Limitations
-The scope of this project encompasses the evaluation of NN models for single-letter detection, utilizing a dataset comprising both solid and hollow letters.
-The project does not delve into multiple-letter detection, and the letters are supposed to be horizontal without rotation in the image.
+The scope of this project consists of evaluating neural network models for single-letter detection using a dataset consisting of both solid and hollow letters. This project does not deal with multiple letter detection, the letters should be horizontal in the image with no rotation.
 
 ## Steps
 ### 1. Data Preparation
